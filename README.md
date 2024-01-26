@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Mishra</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 <h4 align="center">I'm eager to collaborate on tech-driven initiatives<br>Ask me about DSA, OOPS, NextJs</h4>
 
 - 📫 How to reach me **saurabhkm0401@gmail.com**
